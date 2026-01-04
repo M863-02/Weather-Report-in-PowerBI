@@ -43,7 +43,7 @@ The data is sourced from weather APIs, transformed using Power Query, and analyz
 ## Key Insights
 
 * Weather conditions vary significantly across the three cities
-* High rainfall probability observed during forecast periods
+* Low rainfall probability observed during forecast periods
 * AQI occasionally reaches unhealthy levels for sensitive groups
 * Specific pollutants contribute more prominently to AQI variation
 
